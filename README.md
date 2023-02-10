@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MagicAxe
 - 👀 I’m interested in Mechanical Engineering, Product Management, and Sustainability
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on climate tech solutions
-- 📫 Reach me at padwal.akshay25@gmail.com
+- 📫 Reach me at padwal.akshay@yahoo.com
 - 🍵 Buy me coffee: https://ko-fi.com/akshaypadwal
 
 <!---
